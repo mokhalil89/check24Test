@@ -1,0 +1,6 @@
+1-change drivers in config.properties  (Chrome, Firefox)
+2-go to cmd 
+3-cd to project path
+4- type mvn install
+
+you will successfully run the project 

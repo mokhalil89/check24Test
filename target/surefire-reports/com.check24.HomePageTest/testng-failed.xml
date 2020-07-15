@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [com.check24.HomePageTest]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.check24.HomePageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="validateAmountAndDurationFilterTest"/>
+        </methods>
+      </class> <!-- com.check24.HomePageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.check24.HomePageTest] -->

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.check24.HomePageTest" duration-ms="70804" started-at="2020-07-15T20:36:12Z" finished-at="2020-07-15T20:37:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="70804" started-at="2020-07-15T20:36:12Z" finished-at="2020-07-15T20:37:22Z">
+      <class name="com.check24.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.check24.HomePageTest@7a5d012c]" name="setUp" is-config="true" duration-ms="7814" started-at="2020-07-15T22:36:12Z" finished-at="2020-07-15T22:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateAmountFilterTest()[pri:1, instance:com.check24.HomePageTest@7a5d012c]" name="validateAmountFilterTest" duration-ms="4636" started-at="2020-07-15T22:36:19Z" finished-at="2020-07-15T22:36:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAmountFilterTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.check24.HomePageTest@7a5d012c]" name="tearDown" is-config="true" duration-ms="726" started-at="2020-07-15T22:36:24Z" finished-at="2020-07-15T22:36:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.check24.HomePageTest@7a5d012c]" name="setUp" is-config="true" duration-ms="6055" started-at="2020-07-15T22:36:25Z" finished-at="2020-07-15T22:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateAmountAndDurationFilterTest()[pri:2, instance:com.check24.HomePageTest@7a5d012c]" name="validateAmountAndDurationFilterTest" duration-ms="7715" started-at="2020-07-15T22:36:31Z" finished-at="2020-07-15T22:36:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAmountAndDurationFilterTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.check24.HomePageTest@7a5d012c]" name="tearDown" is-config="true" duration-ms="756" started-at="2020-07-15T22:36:39Z" finished-at="2020-07-15T22:36:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.check24.HomePageTest@7a5d012c]" name="setUp" is-config="true" duration-ms="6115" started-at="2020-07-15T22:36:39Z" finished-at="2020-07-15T22:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateAmountAndDurationFilterAndPurposeTest()[pri:3, instance:com.check24.HomePageTest@7a5d012c]" name="validateAmountAndDurationFilterAndPurposeTest" duration-ms="10958" started-at="2020-07-15T22:36:45Z" finished-at="2020-07-15T22:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAmountAndDurationFilterAndPurposeTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.check24.HomePageTest@7a5d012c]" name="tearDown" is-config="true" duration-ms="910" started-at="2020-07-15T22:36:56Z" finished-at="2020-07-15T22:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.check24.HomePageTest@7a5d012c]" name="setUp" is-config="true" duration-ms="6051" started-at="2020-07-15T22:36:57Z" finished-at="2020-07-15T22:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateFilterTest()[pri:4, instance:com.check24.HomePageTest@7a5d012c]" name="validateFilterTest" duration-ms="7186" started-at="2020-07-15T22:37:03Z" finished-at="2020-07-15T22:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFilterTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.check24.HomePageTest@7a5d012c]" name="tearDown" is-config="true" duration-ms="691" started-at="2020-07-15T22:37:11Z" finished-at="2020-07-15T22:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.check24.HomePageTest@7a5d012c]" name="setUp" is-config="true" duration-ms="6096" started-at="2020-07-15T22:37:11Z" finished-at="2020-07-15T22:37:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateProductsTest()[pri:5, instance:com.check24.HomePageTest@7a5d012c]" name="validateProductsTest" duration-ms="4313" started-at="2020-07-15T22:37:17Z" finished-at="2020-07-15T22:37:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProductsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.check24.HomePageTest@7a5d012c]" name="tearDown" is-config="true" duration-ms="755" started-at="2020-07-15T22:37:22Z" finished-at="2020-07-15T22:37:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.check24.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.check24.HomePageTest -->
+</testng-results>

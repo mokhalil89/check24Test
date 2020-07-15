@@ -1,0 +1,5 @@
+com\check24\util\TestUtil.class
+com\check24\util\ExtentReporterNG.class
+com\check24\pages\Check24Page.class
+com\check24\base\TestBase.class
+com\check24\util\WebEventListener.class
